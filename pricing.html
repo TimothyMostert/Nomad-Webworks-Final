@@ -6,20 +6,20 @@ pricing_table:
   - name: Basic
     color: "#8e8e8e"
     features:
-      - text: From R5000
+      - text: R5000
         highlight: true
       - text: Call to Action
         highlight: false
-      - text: Blogging
+      - text: Brand styling
         highlight: false
-      - text: CRM
+      - text: Easy content management
         highlight: false
       - text: Contact Forms
         highlight: false
-      - text: Brand styling
+      - text: Blogging
         highlight: false
     call_to_action:
-      link: http://mysite.com?plan=basic
+      link: /contact/
       text: Get started
   - name: Custom
     color: "#4a4a4a"
@@ -28,44 +28,44 @@ pricing_table:
         highlight: true
       - text: Everything in Basic
         highlight: false
-      - text: some stuff
+      - text: Custom web features
         highlight: false
-      - text: some stuff
+      - text: Graphic design work
         highlight: false
-      - text: some stuff
+      - text: E-commerce
         highlight: false
-      - text: some stuff
+      - text: Web applications
         highlight: false
     call_to_action:
-      link: http://mysite.com?plan=pro
+      link: /contact/
       text: Get started
   - name: Management
     color: "#000000"
     features:
-      - text: from R500 per month
+      - text: from R100 per month
         highlight: true
-      - text: Everything in Basic and Pro
+      - text: Hosting
         highlight: false
-      - text: to add
+      - text: SEO maintenance
         highlight: false
-      - text: to add
+      - text: Copywriting
         highlight: false
-      - text: to add
+      - text: Social media marketing
         highlight: false
-      - text: to add
+      - text: Exposure marketing
         highlight: false
     call_to_action:
-      link: http://mysite.com?plan=professional
+      link: /contact/
       text: Get started
 faq:
-  - question: What types of payment do you accept?
-    answer: Credit cards including MasterCard, Visa or American Express.
+  - question: How are payments made?
+    answer: Cash, EFT and major credit cards. Half upfront and the remainder on completion.
   - question: Can I change my plan at a later time?
-    answer: You can upgrade to a more advanced plan at any time,
-  - question: Do you offer pricing for nonprofit organizations?
-    answer: Yes, send us a message and we'll set you up on our nonprofit pricing.
+    answer: Yes you can upgrade to a more advanced plan at any time.
+  - question: How is payment determined?
+    answer: Basic packages are a set price, whereas custom sites are determined per feature.
   - question: Questions?
-    answer: Contact us for any further questions at <a href="#">resident@hotmail.co.za</a>.
+    answer: Contact me for any further questions at <a href="#">resident@hotmail.co.za</a>.
 ---
 <div class="plans">
 	{% for plan in page.pricing_table %}
