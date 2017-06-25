@@ -2,7 +2,6 @@
 	width: 100%;
 	margin: 10px;
 	padding: 0;
-
 	@media #{$tablet} {
 		-webkit-flex: 1 0 180px;
 		flex: 1 0 180px;
@@ -11,15 +10,15 @@
 	li {
 		list-style: none;
 		margin: 15px auto;
-
 		@media #{$tablet} {
 			max-width: 150px;
 		}
-		a {
 
+		a {
 			&:hover {
 				text-decoration: none;
 			}
+
 			svg {
 				fill: #999;
 				margin-right: 10px;
@@ -67,22 +66,20 @@
 }
 
 footer {
-	padding: 50px 0 50px 0;
+	padding: 50px 0;
 	font-size: 1.1em;
 	position: relative;
 	background: #2b2b40;
 	color: #fff;
 
 	.copyright {
-		font-size: .8em;
+		font-size: 0.8em;
 		margin: 0 auto;
-		
 		@media #{$tablet} {
 			text-align: center;
 		}
-
 	}
-	
+
 	&,
 	a {
 		color: #999;
@@ -97,7 +94,7 @@ footer {
 	.footer-columns {
 		@extend %flexbox;
 		@include flex-flow(wrap);
-		margin: -10px -10px 10px -10px;
+		margin: -10px -10px 10px;
 	}
 
 	a {

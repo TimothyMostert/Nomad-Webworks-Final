@@ -11,14 +11,15 @@
 	margin: 0 auto;
 
 	form {
-		width: 100%
+		width: 100%;
 	}
 
 	p {
 		margin: 0;
 	}
 
-	.contact-form, .contact-details  {
+	.contact-details,
+	.contact-form {
 		@media #{$desktop} {
 			-webkit-flex: 1;
 			flex: 1;
@@ -27,6 +28,6 @@
 	}
 
 	.contact-details {
-		font-size: .9em;
+		font-size: 0.9em;
 	}
 }

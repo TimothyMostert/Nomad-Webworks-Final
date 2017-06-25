@@ -19,9 +19,8 @@
 		max-width: 750px;
 		width: 98%;
 		margin: 0 auto;
-
 		@media #{$tablet} {
-			@include flexbox;
+			 @include flexbox;
 
 			blockquote {
 				-webkit-flex: 1;
@@ -41,15 +40,14 @@
 		color: #fff;
 	}
 }
-
-
 @media #{$desktop} {
 	.flex {
 		@include flexbox;
 		align-items: center;
 		flex-direction: row;
 
-		.text, .image {
+		.image,
+		.text {
 			-webkit-flex: 1;
 			flex: 1;
 			padding: 0 20px;

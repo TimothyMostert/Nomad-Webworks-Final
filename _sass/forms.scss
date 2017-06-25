@@ -1,14 +1,16 @@
-.button a, input[type=submit] {
+.button a,
+input[type=submit] {
 	color: #fff;
 	text-decoration: none;
 	padding: 10px 30px;
 	background: $brand-color;
 	border-radius: 3px;
 	border: 1px solid rgba(255,255,255,.5);
-	transition: .2s ease-in-out;
+	transition: 0.2s ease-in-out;
 }
 
-.button a:hover, input[type=submit]:hover {
+.button a:hover,
+input[type=submit]:hover {
 	border: 1px solid #fff;
 	background: $secondary-brand-color;
 	cursor: pointer;
@@ -26,13 +28,21 @@
 	color: $brand-color;
 }
 
-textarea, input, button, select { font-family: inherit; font-size: inherit; }
-
-input[type=submit] {
-	margin: 20px 0 0 0;
+button,
+input,
+select,
+textarea {
+	font-family: inherit;
+	font-size: inherit;
 }
 
-label, input, textarea {
+input[type=submit] {
+	margin: 20px 0 0;
+}
+
+input,
+label,
+textarea {
 	display: block;
 	width: 100%;
 	box-sizing: border-box;
@@ -44,15 +54,17 @@ textarea {
 }
 
 label {
-	margin: 20px 0 5px 0;
+	margin: 20px 0 5px;
 }
 
-input, textarea {
+input,
+textarea {
 	padding: 10px;
 	font-size: 1em;
 }
 
-input, textarea {
+input,
+textarea {
 	-webkit-transition: all 0.30s ease-in-out;
 	-moz-transition: all 0.30s ease-in-out;
 	-ms-transition: all 0.30s ease-in-out;
@@ -61,7 +73,10 @@ input, textarea {
 	border: 1px solid #DDDDDD;
 }
 
-input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, textarea:focus {
+input[type=email]:focus,
+input[type=password]:focus,
+input[type=text]:focus,
+textarea:focus {
 	box-shadow: 0 0 5px rgba(81, 203, 238, 1);
 	border: 1px solid rgba(81, 203, 238, 1);
 }

@@ -8,30 +8,17 @@
   - name: Contact
     link: /contact/
 - links:
-  - name: Login
-    link: /
-    new_window: true
-  - name: Sign Up
-    link: /
-    new_window: true
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
-- links:
   - name: Facebook
-    link: https://facebook.com
+    link: https://www.facebook.com/NomadWebWorks/
     new_window: true
     social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com
-    social_icon: Twitter
+  - name: LinkedIn
+    link: https://www.linkedin.com/company-beta/18109395
+    social_icon: LinkedIn
     new_window: true
-  - name: YouTube
-    link: https://youtube.com
-    social_icon: YouTube
+  - name: Twitter
+    link: https://twitter.com/NomadWebworks
+    social_icon: Twitter
     new_window: true
   - name: RSS
     link: /feed.xml
