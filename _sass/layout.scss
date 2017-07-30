@@ -65,8 +65,10 @@ header {
 .sectionImage {
 	margin-top: 20px;
 	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	width: 100%;
-	max-height: 20%;
 }
 
 .screenshot {
