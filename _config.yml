@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: website design cape town and web developemnt freelancer
+description: Website Design | Cape Town | Freelance Developer
 author:
   name:
   email:
@@ -18,7 +18,7 @@ author:
 social:
   name: Tim Mostert
   links:
-    - https://www.facebook.com/NomadWebWorks/
+    - https://www.facebook.com/NomadWebworks/
 
 # -----
 # Build

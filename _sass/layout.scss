@@ -62,6 +62,13 @@ header {
 	position: relative;
 }
 
+.sectionImage {
+	margin-top: 20px;
+	height: auto;
+	width: 100%;
+	max-height: 20%;
+}
+
 .screenshot {
 	max-width: 75%;
 	height: auto;
@@ -69,12 +76,11 @@ header {
 	margin-left: auto;
 	margin-right: auto;
 
-	padding: 20px 0 0;
 	position: relative;
 }
 
 section {
-	padding: 100px 0;
+	padding: 50px 0;
 }
 
 section + section {
