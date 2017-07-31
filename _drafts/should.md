@@ -25,9 +25,18 @@ You know your business needs a website, but whether you try and tackle it yourse
 
 ## Which is Best for You
 
-If you need a simple webpage, and have the free time to spend learning and creating it, using a website builder can be a decent solution. Most importantly it's free, but besides that its gives you easy access to features that are complex to create manually, and there are large communities that help you work on the site.&nbsp;
+If you need a simple webpage, and have the free time to spend learning and creating it, using a website builder can be a decent solution. Most importantly it's free, but besides that its gives you easy access to features that are complex to create manually, and there are large communities that help you work on the site. It is quick to start, and easy to create a simple site so long as you don't mind it looking pretty generic.
 
-On the other hand a website designer might be a better choice if you care about any of the following criteria: you're busy and need the website made without hassle, you desire a unique design that separates itself from many other websites online, your business exists in a competitive field where you need every advantage in terms of search performance over your competitors.
+On the other hand a website designer might be a better choice if you care about any of the following criteria:
+
+* you're busy and need the website made without hassle.
+* you require a unique design that separates itself from the limited templates online.
+* your business exists in a competitive field where you need every advantage in order to be seen on google over your competitors.
+* your customers might be sensitive to slow page speeds, or frequently experience bad connectivity.
+* you process a large amount of customers or expect your business to scale rapidly in the future.
+* you want your website to last longer, without experiencing the security risks that are innately built into older versions of website builders.
+
+Hopefully this comparison helps you in making a decision. Remember, it all boils down to what you require. Do you need a website that "gets the job done", and have some time to fiddle around, a website builder is the choice for you. &nbsp;Otherwise if you require higher standards and customisation a web designer is the better option.
 
 &nbsp;
 
