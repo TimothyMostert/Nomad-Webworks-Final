@@ -9,7 +9,7 @@ date: 2017-07-31 00:00:00
 ---
 
 
-You know your business needs a website, but whether you try and tackle it yourself, or hire a professional can prove a difficult decision. The good news is both solutions work, it just depends on your priorities. Let's compare popular online services such as Weebly, Wix and Squarespace with professional web developers.
+You know your business needs a website, but whether you try and tackle it yourself, or hire a professional, can prove to be a difficult decision. The good news is both solutions work, it just depends on your priorities. Let's compare popular online services such as Weebly, Wix and Squarespace with professional web developers.
 
 ![](/uploads/versions/stocksnap-w13mh17022---x----4460-2973x---.jpg)
 
