@@ -20,9 +20,15 @@ You know your business needs a website, but whether you try and tackle it yourse
 ## **Advantages of website Designers**
 
 1. They do everything for you! Even with an online tool, making a website is a time consuming process. This only gets harder as the needs of your site increase. Time is your most valuable resource, and outsourcing the work can save you 10's of hours. Giving you an opportunity to allocate those resources elsewhere.
-2. They make superior websites. Web designers have spent years learning how to best optimise their webpages, They know what works. From load speeds, to user design and layout; a custom website will always out perform a packaged product if made correctly. This is especially relevant for search engine optimisation (the art of being seen on google), and becomes even more important as your site scales in traffic.
+2. They make superior websites. Web designers have spent years learning how to best optimise their webpages, They know what works. From load speeds, to user design and layout; a custom website will always out perform a packaged product if made correctly. This is especially relevant for search engine optimisation (the art of being seen on google), and becomes even more important as your site scales in traffic. They are also more secure, as they don't rely on bulky and easily hack-able code.
 3. They offer total customisation. While builders allow you to quickly open a template and fill out some content, they look generic. Designers take your specific needs into consideration and create sites that help you differentiate your business or product. No matter what your goal or brand identity, a developer with the right skill can craft a solution for you.
 
 ## Which is Best for You
 
-If you need a simple webpage, and have the free time to spend learning and creating it, using a website builder can be a decent solution. Most importantly it's free, but besides that&nbsp;
+If you need a simple webpage, and have the free time to spend learning and creating it, using a website builder can be a decent solution. Most importantly it's free, but besides that its gives you easy access to features that are complex to create manually, and there are large communities that help you work on the site.&nbsp;
+
+On the other hand a website designer might be a better choice if you care about any of the following criteria: you're busy and need the website made without hassle, you desire a unique design that separates itself from many other websites online, your business exists in a competitive field where you need every advantage in terms of search performance over your competitors.
+
+&nbsp;
+
+&nbsp;
