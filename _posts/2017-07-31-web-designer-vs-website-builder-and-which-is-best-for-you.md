@@ -21,7 +21,7 @@ They are easy to use… initially. Quickly starting a site can take a matter of 
 
 There have large and active communities. If you get stuck with an issue or need a specific problem solved with a plugin, it's likely someone else has been there before. Resources and solutions will be available online to help you get through it.
 
-## **Advantages of website Designers**
+## Advantage of Website Designers
 
 They do everything for you! Even with an online tool, making a website is a time consuming process. This only gets harder as the needs of your site increase. Time is your most valuable resource, and outsourcing the work can save you 10's of hours. Giving you an opportunity to allocate those resources elsewhere.
 
@@ -42,4 +42,4 @@ On the other hand a website designer might be a better choice if you care about 
 * you process a large amount of customers or expect your business to scale rapidly in the future.
 * you want your website to last longer, without experiencing the security risks that are innately built into older versions of website builders.
 
-Hopefully this comparison helps you in making a decision. Remember, it all boils down to what you require. Do you need a website that "gets the job done", and have some time to fiddle around, a website builder is the choice for you. &nbsp;Otherwise if you require higher standards and customisation a web designer is the better option.
+Hopefully this comparison helps you in making a decision. Remember, it all boils down to what you require. Do you need a website that "gets the job done", and have some time to fiddle around, a website builder is the choice for you. &nbsp;Otherwise if you require higher standards and customization a web designer is the better option.
