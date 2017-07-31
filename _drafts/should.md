@@ -9,6 +9,8 @@ date: 2017-07-31 00:00:00
 ---
 
 
+![](/uploads/versions/stocksnap-w13mh17022---x----4460-2973x---.jpg)
+
 You know your business needs a website, but whether you try and tackle it yourself, or hire a professional can prove a difficult decision. The good news is both solutions work, it just depends on your priorities. Let's compare popular online services such as Weebly, Wix and Squarespace with professional web developers.
 
 ## Advantages of Website Builders
@@ -37,7 +39,3 @@ On the other hand a website designer might be a better choice if you care about 
 * you want your website to last longer, without experiencing the security risks that are innately built into older versions of website builders.
 
 Hopefully this comparison helps you in making a decision. Remember, it all boils down to what you require. Do you need a website that "gets the job done", and have some time to fiddle around, a website builder is the choice for you. &nbsp;Otherwise if you require higher standards and customisation a web designer is the better option.
-
-&nbsp;
-
-&nbsp;
