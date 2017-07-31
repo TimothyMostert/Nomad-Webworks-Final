@@ -9,7 +9,7 @@ date: 2017-07-31 00:00:00
 ---
 
 
-You know your business needs a website, but whether you try and tackle it yourself, or hire a professional, can prove to be a difficult decision. The good news is both solutions work, it just depends on your priorities. Let's compare popular online services such as Weebly, Wix and Squarespace with professional web developers.
+You know your business needs a website, but whether you try and tackle it yourself, or hire a professional can prove to be a difficult decision. The good news is, both solutions work; it just depends on your priorities. Let's compare popular online services such as Weebly, Wix and Squarespace with professional web developers.
 
 ![](/uploads/versions/stocksnap-w13mh17022---x----4460-2973x---.jpg)
 
@@ -33,7 +33,7 @@ They offer total customisation. While builders allow you to quickly open a templ
 
 If you need a simple webpage, and have the free time to spend learning and creating it, using a website builder can be a decent solution. Most importantly it's free, but besides that its gives you easy access to features that are complex to create manually, and there are large communities that help you work on the site. It is quick to start, and easy to create a simple site so long as you don't mind it looking pretty generic.
 
-On the other hand a website designer might be a better choice if you care about any of the following criteria:
+On the other hand a website designer is a better choice if you care about any of the following criteria:
 
 * you're busy and need the website made without hassle.
 * you require a unique design that separates itself from the limited templates online.
@@ -42,4 +42,4 @@ On the other hand a website designer might be a better choice if you care about 
 * you process a large amount of customers or expect your business to scale rapidly in the future.
 * you want your website to last longer, without experiencing the security risks that are innately built into older versions of website builders.
 
-Hopefully this comparison helps you in making a decision. Remember, it all boils down to what you require. Do you need a website that "gets the job done", and have some time to fiddle around, a website builder is the choice for you. &nbsp;Otherwise if you require higher standards and customization a web designer is the better option.
+Hopefully this comparison helps you in making a decision. Remember, it all boils down to what you require. Do you need a website that "gets the job done", and you have some time to fiddle around, a website builder is the choice for you. &nbsp;Otherwise if you require higher standards and customization a web designer is the better option.
