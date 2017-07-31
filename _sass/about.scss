@@ -1,4 +1,20 @@
-.about {
-  background: #f7e064;
-  color: white;
+.topFlex {
+  @media #{$desktop} {
+    @include flexbox;
+    align-items: flex-start;
+    flex-direction: row
+  }
+
+
+  .text {
+    @media #{$desktop} {
+      padding: 20px;
+    }
+  }
+}
+
+.padded {
+  @media #{$desktop} {
+    padding: 20px;
+  }
 }
